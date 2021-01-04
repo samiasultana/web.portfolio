@@ -1,0 +1,22 @@
+body{
+    font-family: 'Acme', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-colour{
+    color: rgb(41, 7, 122);
+}
+.welcome-colour{
+    color: rgb(158, 6, 19);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding: 2%;
+}
+
+.half-width img{
+    width: 100%;
+}
